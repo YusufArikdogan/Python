@@ -55,4 +55,3 @@ more than just one line
 print("Hello, World!")
 
 As long as the string is not assigned to a variable, Python will read the code, but then ignore it, and you have made a multiline comment.
-
